@@ -13,7 +13,9 @@ Modern life is filled with invisible battles: burnout, severe stress, and career
 *(Note: If images do not appear immediately, ensure they are renamed in the repository to `demo1.png`, `demo2.png`, and `demo3.png`)*
 
 ![Image 1](demo1.png)
+
 ![Image 2](demo2.png)
+
 ![Image 3](demo3.png)
 
 ---
