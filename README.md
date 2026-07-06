@@ -12,14 +12,14 @@ Modern life is filled with invisible battles: burnout, severe stress, and career
 ## 📸 Project Showcase & Verification
 *(Note: If images do not appear immediately, ensure they are renamed in the repository to `demo1.png`, `demo2.png`, and `demo3.png`)*
 
-### Image 1
-![Image 1](demo1.png)
+### Image 01
+![Image 1](image01.png)
 
-### Image 2
-![Image 2](demo2.png)
+### Image 02
+![Image 2](image02.png)
 
-### Image 3
-![Image 3](demo3.png)
+### Image 03
+![Image 3](image03.png)
 
 ---
 
@@ -48,9 +48,9 @@ We do not rely on binary success metrics. A Glass Box Trajectory Evaluator simul
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run In Google Colab
 
-1. Open the `Saarthi_Your_Own_Charioteer_AI.ipynb` file in Google Colab.
+1. Open the `Saarthi - Your Own Charioteer AI.ipynb` file in Google Colab.
 2. Click on the 🔑 **Secrets** tab on the left sidebar.
 3. Add a new secret named `GEMINI_API_KEY` and paste your Google Gemini API key. Ensure the "Notebook access" toggle is turned on.
 4. Go to the top menu and select `Runtime > Run all`.
