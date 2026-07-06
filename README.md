@@ -9,8 +9,12 @@ Modern life is filled with invisible battles: burnout, severe stress, and career
 
 **Saarthi AI** is a stateful, context-engineered philosophical guide built to be that steadfast companion for modern seekers. Operating under the **Concierge Agents Track**, it processes complex emotional dilemmas and delivers wisdom from the *Bhagavad Gita*. Crucially, it operates within a strict zero-trust perimeter, ensuring absolute data privacy and strictly refusing to make unauthorized medical or clinical inferences.
 
-### 📸 Live Application Preview
-![Saarthi UI](Saarthi%20-%20Your%20Own%20Charioteer%20AI.ipynb%20(1))
+## 📸 Project Showcase & Verification
+*(Note: If images do not appear immediately, ensure they are renamed in the repository to `demo1.png`, `demo2.png`, and `demo3.png`)*
+
+![Image 1](demo1.png)
+![Image 2](demo2.png)
+![Image 3](demo3.png)
 
 ---
 
@@ -36,10 +40,6 @@ The agent does not emit raw text blocks or risky executable frontend code. Inste
 
 ### 6. The Conscience (Glass Box Trajectory Evaluation)
 We do not rely on binary success metrics. A Glass Box Trajectory Evaluator simulates an **LLM-as-Judge** to score the agent's internal reasoning path. It verifies that the agent successfully triggered background memory tools and emitted valid A2UI schemas, continuously measuring for Intent Drift against rubrics derived directly from the user's opening prompt.
-
-### 📸 Architecture & Evaluation Verification
-![Architecture & Shield](Saarthi%20-%20Your%20Own%20Charioteer%20AI.ipynb%20(2))
-![Trajectory Evaluation](Saarthi%20-%20Your%20Own%20Charioteer%20AI.ipynb%20(3))
 
 ---
 
