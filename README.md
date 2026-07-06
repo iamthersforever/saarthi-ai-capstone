@@ -2,7 +2,7 @@
 
 **Kaggle 5-Day AI Agents Intensive Vibe Coding Course With Google Capstone Project | Concierge Agents Track**
 
-[![Demonstration Video](https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2vPze5RqbJI)
+[![Demonstration Video](https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tawiTOGxu9U)
 
 ## 📖 Project Overview
 Modern life is filled with invisible battles: burnout, severe stress, and career anxiety. In the epic Mahabharata, when Arjuna was overwhelmed on the battlefield, Lord Shri Krishna stepped in as his *Saarthi* (Charioteer)—not to fight the war for him, but to provide the philosophical clarity needed to proceed. 
