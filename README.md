@@ -1,4 +1,4 @@
-# 🦚 Saarthi - Your Own Charioteer AI
+# 🦚 Saarthi - Your Own Charioteer AI 
 
 **Kaggle 5-Day AI Agents Intensive Vibe Coding Course With Google Capstone Project | Concierge Agents Track**
 
