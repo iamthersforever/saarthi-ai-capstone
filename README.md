@@ -10,10 +10,7 @@ Modern life is filled with invisible battles: burnout, severe stress, and career
 **Saarthi AI** is a stateful, context-engineered philosophical guide built to be that steadfast companion for modern seekers. Operating under the **Concierge Agents Track**, it processes complex emotional dilemmas and delivers wisdom from the *Bhagavad Gita*. Crucially, it operates within a strict zero-trust perimeter, ensuring absolute data privacy and strictly refusing to make unauthorized medical or clinical inferences.
 
 ## 📸 Project Showcase & Verification
-*(Note: If images do not appear immediately, ensure they are renamed in the repository to `demo1.png`, `demo2.png`, and `demo3.png`)*
-
-### Image 00 
-![Image 0](image00.png)
+*(Note: If images do not appear immediately, ensure they are renamed in the repository to `image00.png`, `image01.png`, `image02.png` and `image03.png`)*
 
 ### Image 01
 ![Image 1](image01.png)
